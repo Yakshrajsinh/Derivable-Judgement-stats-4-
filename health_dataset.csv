@@ -1,0 +1,501 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,diabetes,hypertension,cholesterol_level,glucose_level,visit_date
+7b4b7c26-4378-41bb-b89f-e29f49befd7e,36-45,41,46,Female,North,Non-Smoker,Rarely,17.6,131.6,False,True,199.8,84.6,2023-04-09
+911f8c59-f0d5-4094-8f2e-d0a1733fc1ba,60+,77,77,Female,West,Non-Smoker,Daily,23.4,131.2,False,True,200.8,68.0,2023-11-13
+ed0c66c6-accd-40f1-95c7-a53af1d78895,46-60,54,67,Female,East,Smoker,Weekly,25.4,158.5,False,True,206.0,104.3,2023-05-03
+3e39fbb0-f984-449a-809f-eac4b5a8677c,36-45,36,61,Female,North,Non-Smoker,Rarely,20.3,135.4,False,False,170.1,73.2,2023-11-16
+beec91be-86a0-4da0-baae-edb53eebe2e1,26-35,30,70,Female,South,Smoker,Rarely,23.6,115.0,False,False,210.9,106.3,2024-08-15
+66ae75b7-3b90-4c57-b419-57e48392e67f,26-35,29,61,Female,West,Smoker,Weekly,26.1,118.6,False,False,209.5,72.3,2024-05-09
+98f4b244-68bc-4c91-8169-15789e9c88d7,18-25,22,46,Male,North,Non-Smoker,Rarely,16.7,112.0,False,False,160.2,84.9,2024-04-01
+69817ae3-0137-4fe0-90da-242c2cedfe0e,60+,76,71,Male,East,Non-Smoker,Never,25.1,118.1,False,False,179.4,140.4,2024-06-05
+edb1e81f-9e64-459f-a969-cd9d198d7b8a,46-60,58,79,Male,North,Former Smoker,Never,27.8,129.3,True,True,214.3,105.2,2024-06-03
+35da63f3-a092-40c7-92b1-e871d4b7f37b,46-60,58,71,Female,East,Non-Smoker,Daily,24.6,122.7,False,False,173.6,78.0,2024-12-17
+c57b925a-43c6-408e-b195-70e6a9a36d67,18-25,23,75,Male,South,Non-Smoker,Rarely,24.6,132.6,False,True,144.2,76.2,2023-11-11
+c812db19-631a-4bc4-a72d-1d10c8a294d1,60+,63,73,Female,West,Non-Smoker,Weekly,25.9,132.7,False,False,172.2,97.1,2024-12-09
+5911488b-b3cb-43f1-9694-0cc65bd19b13,46-60,58,83,Female,West,Smoker,Never,28.6,136.4,True,True,217.8,129.7,2024-12-10
+9356bdb2-18e7-40b0-9e9d-34c2cac49abe,26-35,31,73,Female,West,Former Smoker,Weekly,25.8,114.9,False,False,205.3,86.1,2024-06-25
+725c3c78-ae5d-426b-9b76-2faf13e190cc,26-35,27,50,Other,South,Non-Smoker,Daily,19.5,120.5,False,False,140.1,60.0,2024-04-23
+81b44eb7-e6b2-43a1-b8f2-77aad238ebfc,26-35,28,59,Female,East,Non-Smoker,Rarely,21.0,108.2,False,False,208.8,60.0,2023-01-20
+56988c82-f87d-4977-a418-667119408403,26-35,30,68,Female,South,Smoker,Weekly,22.5,122.7,False,False,212.9,113.4,2024-07-13
+2f36a727-a221-463d-8f58-611a37d22d11,36-45,44,84,Male,West,Non-Smoker,Never,26.7,117.8,False,True,149.8,140.1,2023-05-10
+0fd9c97d-63d8-48d0-9cbc-4e9781683522,36-45,37,70,Female,South,Non-Smoker,Never,23.5,103.6,False,True,167.4,116.4,2023-10-20
+13028e70-6acf-42e4-8298-40ee6c036380,26-35,33,70,Male,South,Former Smoker,Rarely,22.0,109.0,False,False,146.0,77.3,2023-05-12
+3b70e77c-1e5d-43d8-99fa-a7e209011a08,46-60,59,72,Male,South,Smoker,Daily,24.5,131.4,True,True,232.4,102.3,2023-12-22
+4a3cee09-a18a-4f70-8063-c39d1ee7ebab,18-25,19,69,Female,East,Non-Smoker,Rarely,22.6,108.2,True,False,136.8,100.4,2023-02-23
+8fe31d55-5527-4ad0-945d-fd947ce9ee66,26-35,30,63,Female,North,Former Smoker,Daily,20.4,114.3,False,False,127.2,72.4,2024-01-22
+d7125fee-1b8b-4e65-9393-c5609fca9f4a,36-45,42,46,Male,North,Non-Smoker,Daily,16.7,114.5,False,True,164.7,74.9,2023-09-22
+7a0d3d17-35f8-40c9-a9fc-bdb7c36c9aee,36-45,43,73,Female,South,Non-Smoker,Rarely,24.0,116.7,False,False,211.6,114.0,2023-08-03
+2e698304-6543-479d-afbc-fe71a8f6fe04,46-60,46,55,Female,North,Smoker,Weekly,21.3,142.1,False,False,196.7,67.7,2024-04-04
+d34a3fee-edd4-4c1c-b641-a79c3fa34d36,26-35,31,76,Female,North,Former Smoker,Weekly,26.0,130.9,False,True,185.2,109.9,2024-04-02
+e6d58615-d343-4785-9b29-87aaeab6bb38,36-45,36,73,Female,South,Smoker,Never,24.5,125.8,False,True,208.3,104.5,2023-02-12
+88fe61f6-aaab-4c3a-aee5-ac718ccf07e5,36-45,37,64,Female,South,Non-Smoker,Weekly,20.5,118.9,False,True,135.6,71.8,2024-08-08
+2eca4135-c37a-48d9-bd23-cac2157a5dcf,18-25,24,68,Other,West,Non-Smoker,Weekly,22.3,108.9,False,False,142.7,71.8,2023-10-05
+7a3624fb-ce34-42c7-b907-15fdffad1e59,46-60,46,94,Female,North,Smoker,Never,30.1,107.2,True,True,212.3,107.6,2023-05-10
+7df906e4-8074-41e3-bb1d-6b8746bcf993,26-35,30,64,Female,East,Non-Smoker,Daily,22.9,115.7,False,False,156.7,61.8,2023-12-16
+ac43fd7a-3e57-4563-b5f1-766e334c390d,18-25,19,62,Other,South,Smoker,Rarely,22.7,122.0,False,False,224.3,112.9,2024-12-06
+8c6d828f-fd40-41c1-b9ee-1d58a47e4af7,60+,77,68,Female,West,Non-Smoker,Never,24.7,119.6,True,True,179.7,129.1,2024-06-27
+9d0bd026-224c-4680-a384-497385c81df4,60+,73,96,Male,East,Non-Smoker,Never,33.3,146.0,False,True,194.8,149.4,2023-04-16
+95c456e0-9ed4-4ca2-aab3-caacbb997088,46-60,46,53,Male,North,Former Smoker,Rarely,22.4,121.7,False,True,190.1,102.4,2024-12-16
+b25bee62-6785-42eb-b206-c3acc2db294e,26-35,27,81,Male,West,Non-Smoker,Weekly,25.5,119.8,False,True,155.7,93.9,2023-01-01
+07dc8d0d-c001-4a4d-88b4-79d7d143cfd8,18-25,18,60,Male,South,Non-Smoker,Weekly,21.0,106.7,True,False,100.0,84.6,2024-08-06
+575b3e4b-eff4-4fd7-80f0-d5dde7eeb5e2,46-60,48,73,Female,East,Smoker,Rarely,26.9,146.4,False,True,258.2,95.4,2024-03-07
+17d64eff-56e2-49ef-8544-1a6586aefaea,36-45,36,64,Female,South,Smoker,Never,29.4,133.4,True,False,176.4,111.8,2023-11-02
+fb047e8c-73fb-4474-8aec-9f4cfb70d054,18-25,22,68,Female,North,Smoker,Weekly,24.3,131.5,False,True,200.0,68.5,2024-06-10
+0c5580b7-44dc-43b6-8bc2-41d83e4ad824,36-45,42,73,Male,East,Smoker,Weekly,26.2,141.8,True,False,172.9,114.7,2023-02-22
+bef0a7b7-d305-49ab-9e74-d9dfb7c375ff,18-25,23,52,Female,North,Non-Smoker,Daily,20.1,99.3,False,True,140.1,60.0,2024-06-03
+e124cad2-0e15-469c-9795-ac04337523b7,60+,77,62,Female,North,Non-Smoker,Daily,23.4,127.3,False,False,168.3,78.9,2023-11-26
+a2e8a393-f20e-4bb1-9496-5f7a827272c7,26-35,30,66,Female,West,Non-Smoker,Rarely,23.4,120.4,False,False,152.8,120.9,2024-07-11
+a62f189b-4512-4708-9aad-fe2fd5e2f994,46-60,50,63,Female,South,Smoker,Weekly,23.5,128.3,False,False,191.3,98.9,2023-11-21
+4eca0ff4-7cc0-4997-a3e1-9d4235dfffe3,26-35,31,96,Female,East,Non-Smoker,Never,32.4,121.1,False,False,179.6,122.2,2023-04-24
+2cda56e6-9533-433d-98e4-06eaa3ddbfc4,36-45,38,54,Male,North,Former Smoker,Rarely,20.6,132.7,True,True,165.0,98.5,2023-05-27
+0b607d20-5acb-4c27-a062-1fe98ac407d5,36-45,40,71,Female,North,Non-Smoker,Daily,24.8,117.9,True,False,144.9,62.7,2023-06-15
+a923d022-03d7-4459-8874-fdb8cb17fe10,26-35,32,78,Male,East,Former Smoker,Rarely,24.7,111.1,False,False,161.3,72.3,2024-01-14
+30cf3c09-6494-4e61-9c52-740f0e5a1cb4,60+,65,74,Male,North,Former Smoker,Weekly,26.4,127.0,True,False,239.1,99.0,2023-05-19
+8b48a22a-36b2-4dbf-aba6-011c6dbc27f3,46-60,50,85,Female,West,Smoker,Rarely,29.0,158.2,True,False,247.2,91.5,2024-09-20
+1cbfe7c0-cdf2-4896-b495-9409287de9ce,60+,65,77,Male,West,Non-Smoker,Rarely,26.7,130.8,False,True,214.6,105.0,2023-10-26
+612d6074-0935-4074-bb4c-c05a6c42eab3,60+,70,69,Female,West,Non-Smoker,Rarely,24.3,119.0,False,True,220.9,111.3,2023-10-03
+84dbbcdf-e19d-4889-846b-8d6e9e4814a2,36-45,38,69,Male,West,Non-Smoker,Rarely,24.5,102.3,False,True,230.5,115.6,2023-06-27
+1d860864-602d-40ea-aef9-1324be949b6d,60+,77,70,Female,North,Non-Smoker,Weekly,26.2,130.7,True,False,226.5,121.2,2023-12-20
+2fc2acdd-f3f3-420e-8e56-2adf4e50a805,18-25,22,62,Male,East,Non-Smoker,Daily,21.8,109.5,False,False,179.1,61.0,2023-06-03
+6be36851-3e34-41e6-b658-eb2e336aa940,26-35,34,71,Other,East,Non-Smoker,Rarely,25.7,128.9,False,False,138.1,89.7,2023-07-20
+54fe10a5-9eba-4f73-a101-2387eb715f1d,18-25,23,58,Female,East,Non-Smoker,Daily,17.8,117.2,False,True,131.1,60.5,2023-04-25
+42811285-6956-405e-8e24-6954f3c5c302,26-35,26,80,Male,East,Non-Smoker,Weekly,26.2,116.5,False,True,170.6,78.5,2024-11-01
+811d66a5-adf2-49be-bb86-4cb63cf34532,36-45,38,51,Female,South,Non-Smoker,Daily,20.8,112.5,False,False,154.4,60.5,2024-07-07
+c2020da8-ccce-4794-978f-25ef0e96d4d2,26-35,29,60,Other,East,Non-Smoker,Rarely,24.2,119.6,True,False,146.5,116.6,2023-03-09
+d232bd11-8a79-4d74-be77-de5825f62958,46-60,59,70,Male,South,Non-Smoker,Daily,25.1,111.4,False,False,174.5,92.1,2024-03-20
+c88dca57-327f-425e-aed0-3543b72ebeb4,36-45,36,67,Male,South,Smoker,Rarely,24.5,147.0,True,False,161.8,90.8,2024-03-20
+2c9ad59f-5aae-4a17-9e49-aef4a11f7e6a,26-35,26,67,Female,West,Smoker,Never,24.3,129.6,False,True,169.4,113.1,2023-11-22
+e86fff70-206e-430b-a2e0-0e17ea9b2db1,36-45,43,62,Female,South,Former Smoker,Daily,20.5,130.5,True,False,186.7,88.3,2024-12-08
+3cf7d0f8-9a8c-44dd-b549-739c5c52164e,18-25,19,56,Female,North,Non-Smoker,Daily,19.3,97.5,False,False,202.5,88.0,2024-08-24
+e58a8fdd-dad3-45ac-ace0-20a58bb5de68,46-60,57,87,Female,South,Smoker,Weekly,29.8,152.7,False,False,240.5,97.2,2024-09-14
+db1ce9d1-8de2-4b95-97bd-5eebde5c3c0e,18-25,24,71,Male,West,Smoker,Never,21.9,115.7,False,True,200.6,107.7,2023-12-25
+23b4f1d4-6065-4180-b345-1adf271c0025,60+,68,59,Male,South,Smoker,Weekly,23.8,129.9,False,True,181.6,89.0,2023-05-25
+85849ddd-a612-486c-9f2d-88bd45c25767,46-60,52,64,Female,North,Former Smoker,Weekly,22.4,126.5,False,True,190.7,92.9,2023-10-02
+7504fb68-9afd-4a18-a9b4-ea081ea34315,26-35,27,56,Male,North,Non-Smoker,Daily,21.1,112.3,False,False,164.4,77.2,2024-05-23
+e51e9f50-bdc3-4951-83dc-b93bfd9e73fd,18-25,23,57,Male,North,Former Smoker,Rarely,17.8,100.9,False,False,166.2,82.5,2023-06-28
+b9584735-0edf-4801-810a-72440d06de9a,46-60,51,47,Female,West,Non-Smoker,Weekly,20.6,113.1,True,True,175.7,94.5,2024-04-21
+6808597b-d51e-4f8b-ad3c-a8822046977a,46-60,48,54,Female,West,Non-Smoker,Rarely,23.6,113.5,False,False,227.5,108.4,2024-02-18
+9fdef385-0c10-445d-8819-f5e516815940,46-60,56,67,Female,East,Non-Smoker,Never,23.2,116.5,False,True,193.2,104.2,2023-06-02
+1dee170d-04d1-45a1-abb9-122cfcdba72a,46-60,47,65,Female,West,Non-Smoker,Weekly,20.7,116.7,False,False,185.4,94.5,2023-04-14
+4e4f540e-40a6-4cc6-b132-f51a24d40924,18-25,21,56,Female,North,Smoker,Rarely,18.4,102.4,False,False,129.0,69.1,2023-03-16
+8e1c687e-9e27-4fa0-8900-211ad3b35cba,36-45,36,49,Female,North,Former Smoker,Daily,18.9,110.8,False,False,168.0,119.6,2023-05-08
+c3c619b2-6950-4988-8c6c-e122060ebe9d,18-25,23,86,Female,West,Former Smoker,Never,26.6,129.1,True,True,198.3,94.7,2024-12-11
+dc27be55-6594-49f8-985d-152f0c12de35,60+,72,73,Male,South,Non-Smoker,Rarely,29.2,145.6,True,False,225.7,101.5,2024-10-27
+59930562-2aca-4292-9a4a-d2f326eb59e4,46-60,50,103,Male,West,Former Smoker,Never,32.3,123.5,False,True,144.1,138.3,2024-07-21
+79747582-eb88-48d8-8bd2-8c07a7a2ad14,26-35,34,68,Female,West,Former Smoker,Daily,26.9,132.9,False,True,167.4,80.7,2023-12-11
+fd68aede-7b99-44ca-8fe3-4d7e9228829b,18-25,18,61,Female,North,Non-Smoker,Daily,22.4,90.7,False,False,203.8,88.8,2024-06-14
+448bfa45-a84c-4655-8d83-15e1a4534821,26-35,32,79,Male,East,Smoker,Weekly,26.2,151.3,False,False,192.5,97.8,2023-06-08
+fb6ea369-4db8-4d47-ab12-77e6bbe6e6b8,26-35,30,57,Male,North,Non-Smoker,Weekly,23.4,128.9,True,False,179.3,84.7,2024-06-21
+578530e3-9203-4d43-814d-c5f65ba6159b,46-60,50,84,Male,East,Non-Smoker,Weekly,26.1,120.5,True,True,231.0,89.5,2024-03-01
+153dff0b-32f7-400c-ae4e-7a4382a253e5,46-60,59,85,Male,North,Smoker,Weekly,31.1,145.5,False,True,219.9,99.1,2024-11-11
+231569d8-37c8-4745-a973-bcb58f71609f,60+,62,70,Female,West,Smoker,Daily,24.6,123.7,True,True,238.1,86.2,2023-01-23
+685e84e7-442e-460d-891e-cb092da130bc,36-45,38,85,Male,North,Non-Smoker,Weekly,27.1,122.7,False,True,192.4,96.0,2023-02-16
+20591760-f634-494c-97b2-05c8547802a5,18-25,24,51,Female,North,Smoker,Rarely,19.7,116.7,False,True,197.7,70.9,2024-06-08
+88b9b8bf-30d2-4642-bbc1-7b831881ff4b,46-60,51,70,Female,North,Non-Smoker,Weekly,22.6,115.3,False,False,196.6,94.2,2024-12-29
+815fb4c1-5e5c-45cc-ab50-268c079dddba,46-60,57,79,Female,West,Former Smoker,Daily,24.1,125.6,False,False,180.0,73.4,2024-12-06
+cb7c52a3-67e5-46b3-b4e5-eaba6a61410a,36-45,37,64,Female,West,Former Smoker,Weekly,24.0,116.5,False,False,166.4,105.0,2023-05-24
+de2299a5-fc91-455b-8cde-523446a7136d,46-60,51,67,Male,West,Non-Smoker,Daily,20.8,110.9,True,True,163.6,97.3,2024-08-07
+281d6d88-ad3c-43a8-9409-94fd2c5ecc8c,36-45,37,77,Female,West,Former Smoker,Never,32.7,120.6,False,False,147.0,111.2,2024-10-29
+729de7e6-485d-409a-8a23-e55ee9266c42,36-45,37,64,Male,East,Smoker,Daily,22.0,111.2,False,True,226.3,69.3,2024-08-11
+e16643be-88bc-423e-997d-1303a6d018fb,36-45,37,56,Male,East,Smoker,Rarely,22.2,134.3,True,True,195.7,93.7,2024-02-23
+51d61027-7cfc-4c0c-86f3-be3438a9ed9a,18-25,23,77,Female,South,Non-Smoker,Never,24.9,105.0,False,False,197.3,124.8,2024-11-11
+30b61547-cf8e-4dba-ba67-1c7cdef1fd68,18-25,24,69,Male,West,Non-Smoker,Rarely,22.6,100.7,True,True,204.7,110.0,2023-03-26
+8a6b47be-0f14-4342-8e6f-4f61a98e146e,18-25,20,77,Male,East,Non-Smoker,Rarely,22.7,119.8,False,False,163.8,65.6,2024-02-20
+8eff58eb-8448-4fa5-9f02-5f279d55c886,46-60,48,63,Female,North,Non-Smoker,Rarely,19.6,123.8,False,True,148.3,105.5,2024-11-24
+0eb1cb36-212d-4dad-b28e-e0287334d1b5,26-35,27,79,Male,West,Smoker,Never,28.6,134.9,True,False,190.2,111.7,2024-04-26
+1d025a6e-79b5-40b3-a160-98807a5067b8,36-45,39,70,Female,South,Smoker,Rarely,27.7,140.1,False,True,186.9,99.2,2024-03-31
+24cdb170-19ee-4588-8788-0e361eb594b7,60+,66,90,Male,South,Non-Smoker,Rarely,30.3,155.2,False,True,158.9,119.4,2023-10-24
+2b3e0a1e-9d97-4195-b177-5aab3c589a10,26-35,26,66,Female,South,Non-Smoker,Rarely,23.6,112.9,False,False,155.8,82.6,2023-04-22
+3cc84cf6-cf63-4b18-ac79-d493e0d7c23c,36-45,43,85,Female,North,Non-Smoker,Weekly,26.0,108.6,False,False,183.0,115.0,2023-08-18
+ab4ddc85-b613-416c-90fb-d6cee116f4a0,46-60,57,51,Female,East,Non-Smoker,Rarely,22.5,128.7,False,True,175.7,118.8,2023-04-06
+91a2d2a7-96a7-4a84-8a5e-0a17212636b0,26-35,32,88,Female,North,Non-Smoker,Weekly,25.6,111.8,True,False,156.2,116.5,2024-11-10
+0046c024-5d95-4cec-93df-79febac4c783,18-25,19,68,Male,West,Smoker,Weekly,22.8,109.5,True,False,149.8,60.0,2024-01-13
+ad7612bf-c0a2-4009-afbf-31cb33ff80d3,26-35,28,51,Female,South,Smoker,Daily,19.4,120.9,True,False,189.8,70.7,2023-06-05
+132fafc8-75d6-486f-9cc1-8154d5c271c6,26-35,26,70,Male,North,Non-Smoker,Daily,23.2,122.8,False,False,214.6,60.0,2024-02-25
+18ec3da7-b6ed-4cfa-ad77-9c76b260c894,60+,65,91,Female,North,Non-Smoker,Weekly,28.5,125.6,False,False,237.4,97.4,2023-04-15
+d294d4d7-978f-4c74-946c-67a330038460,46-60,58,67,Male,East,Smoker,Daily,23.4,147.9,False,False,230.0,60.0,2024-12-05
+2896980f-3536-49c1-8126-9a97ebf16881,46-60,49,61,Female,East,Non-Smoker,Rarely,25.8,115.5,True,True,206.2,106.8,2023-11-26
+519281bb-b3e2-464b-8a4e-b5ad8f10fb96,60+,70,63,Male,South,Non-Smoker,Weekly,23.1,129.2,False,False,199.6,105.5,2024-03-14
+393766ab-6737-456e-9948-c7de8c290d94,46-60,53,89,Female,North,Non-Smoker,Rarely,28.5,133.1,False,True,150.7,98.8,2023-05-12
+4227efc6-a08e-447e-8435-e9ebb10d4cd3,26-35,26,53,Female,North,Smoker,Daily,17.9,114.0,False,False,172.2,60.0,2024-01-17
+ca1282af-0807-4d3a-b971-840714abea12,60+,70,67,Female,East,Smoker,Weekly,24.0,122.6,True,False,199.8,108.3,2023-05-18
+082edf7a-158e-4c67-8a2b-4808320b73d2,36-45,36,75,Male,North,Smoker,Rarely,23.6,135.8,False,True,200.2,77.6,2023-09-27
+0d0070c2-acc6-4559-ba1b-d52722590a2c,46-60,57,86,Female,North,Smoker,Rarely,28.5,132.6,True,True,249.8,90.3,2024-07-03
+2c1d29d1-b98f-416d-a8c9-5fb391c34a68,60+,65,83,Male,North,Non-Smoker,Daily,27.1,140.3,True,False,253.1,78.7,2024-01-31
+91e9c59e-a6a8-42a6-bb0c-7591893f55d1,26-35,27,67,Male,East,Former Smoker,Never,24.7,106.1,False,False,172.1,103.7,2024-07-10
+56fe33e6-79cf-41ef-be65-3e1cdb0aafa6,18-25,23,72,Male,South,Non-Smoker,Never,26.7,104.8,False,True,128.0,99.8,2024-04-08
+d1cf91ae-3427-4d43-a9e4-21ab44dceaba,26-35,30,43,Male,West,Non-Smoker,Weekly,17.9,120.1,True,False,166.2,76.7,2024-11-05
+aa72a72e-3095-4e3c-9098-fed67957fb9f,36-45,37,59,Female,South,Non-Smoker,Weekly,21.4,120.5,False,True,176.7,97.6,2024-03-25
+6b04227d-a461-4c3c-9aa6-6a35c3517a89,46-60,58,77,Female,West,Non-Smoker,Never,25.1,124.1,False,False,212.7,131.1,2023-11-27
+bae4f13b-59cc-48ba-a8b4-0ccc9dab99b6,60+,71,83,Male,North,Non-Smoker,Rarely,30.0,141.2,True,True,211.5,134.7,2023-09-10
+b0aa5d79-e70d-4839-819b-333c09344923,18-25,20,71,Male,South,Non-Smoker,Weekly,24.1,102.9,False,True,165.8,89.7,2024-11-11
+9af51610-aa58-4340-9aff-6a5f81aca9f3,36-45,38,76,Male,West,Non-Smoker,Rarely,24.2,120.9,False,False,162.8,99.5,2023-10-12
+f5e4f8d1-6ae1-476e-badc-63dd1a546b0a,36-45,44,73,Male,East,Smoker,Weekly,24.9,132.0,False,True,196.5,100.0,2023-10-01
+dd3b90dd-554d-427b-8b13-3b77ead91792,26-35,32,82,Other,East,Non-Smoker,Weekly,27.8,116.5,False,False,191.0,72.8,2023-01-20
+66227f70-cdb6-4969-bc17-32fe8f6ed76d,18-25,24,54,Male,South,Former Smoker,Weekly,22.0,107.0,False,False,114.6,81.3,2023-08-27
+b24b23ae-5d3e-4278-8cfc-0d9066ba107f,26-35,31,52,Male,South,Smoker,Rarely,19.1,121.6,True,True,179.0,79.1,2023-09-27
+ff648a23-d1d2-4bd7-af80-6a38c4883283,60+,76,99,Male,North,Smoker,Rarely,29.9,147.0,False,True,253.1,106.6,2024-02-22
+2e1e9034-763f-4a37-a9f6-7a0c49c08957,26-35,33,68,Female,South,Non-Smoker,Rarely,23.7,112.7,True,True,215.1,91.4,2023-11-06
+92f5c5f9-bd29-46b4-8e72-4bdb5d8cf4d0,36-45,39,89,Other,North,Non-Smoker,Weekly,26.5,111.7,False,True,172.2,94.8,2023-01-31
+222b1154-5fa1-42c5-90cf-61f9906bd526,46-60,53,65,Female,North,Non-Smoker,Weekly,24.7,126.3,False,True,220.9,84.8,2023-04-14
+c4d9d80a-03d6-4e5d-8a78-7b1b31cf1a05,36-45,39,61,Female,East,Non-Smoker,Weekly,21.2,113.1,False,True,218.1,87.8,2024-11-12
+8563b676-f222-484d-9e82-4933fc887a81,60+,63,73,Female,East,Smoker,Rarely,26.8,129.5,True,True,212.1,96.1,2023-07-05
+987c465c-737a-42a2-8845-54f110156a90,60+,63,76,Male,West,Non-Smoker,Weekly,25.6,131.3,False,True,186.4,64.6,2023-05-08
+bc07c7f5-ee55-49fe-ab78-02d425f09314,26-35,27,65,Female,East,Non-Smoker,Daily,21.3,129.1,False,False,161.8,60.0,2023-07-29
+e901f4b4-d518-4c54-a8db-60ce5a36dc30,36-45,38,91,Female,East,Former Smoker,Never,30.4,124.1,True,False,184.0,119.9,2024-02-18
+fd045599-ced5-46b2-910f-ca9bb3b3f8a1,26-35,28,54,Female,South,Non-Smoker,Daily,17.5,125.4,False,True,189.9,87.6,2023-10-08
+ee61bd4d-4f68-4fba-853e-8f968c4d596c,26-35,30,73,Female,East,Smoker,Never,25.8,147.0,False,False,174.8,72.9,2023-09-10
+58c611ed-f482-40b7-8359-d31fe8adb090,18-25,22,50,Female,West,Smoker,Daily,17.9,106.8,True,False,216.7,60.0,2023-01-19
+eabfb874-3658-4af8-9c03-c049c68f7107,46-60,47,40,Female,South,Smoker,Rarely,16.5,125.3,True,True,176.6,91.9,2024-12-12
+9c2e8856-128a-46de-9e45-1e31866bf8c1,36-45,41,65,Other,West,Non-Smoker,Daily,21.7,140.0,False,True,146.4,94.6,2023-05-16
+dcf0ca25-8b6c-4a31-870d-12e05289900c,18-25,22,70,Female,East,Non-Smoker,Never,24.4,112.3,True,False,179.2,98.5,2023-08-11
+99459047-291c-4c3d-9435-516dcb159f0d,26-35,31,70,Female,West,Non-Smoker,Weekly,24.9,117.9,False,False,204.6,83.0,2023-01-03
+327a0878-c164-4218-a127-63a60c741e7c,60+,61,63,Female,South,Non-Smoker,Daily,22.8,111.1,True,False,199.8,107.4,2023-08-24
+c5eaf7c2-a20c-4c64-8115-7b2d676105bf,26-35,30,52,Male,North,Non-Smoker,Weekly,18.5,106.7,False,False,176.3,95.3,2024-04-09
+a582ca57-e80b-4a7f-afa7-dfd5feed3603,18-25,18,48,Female,West,Smoker,Daily,17.5,120.0,False,True,223.5,81.1,2023-08-16
+01a8a8a2-0782-4770-8717-b64355dbb146,36-45,37,68,Male,West,Smoker,Daily,25.5,152.7,False,True,230.5,78.9,2024-10-15
+0d081370-7372-4419-8def-eea723c2774a,60+,77,76,Female,South,Former Smoker,Never,26.2,138.0,False,False,213.0,140.7,2024-05-13
+52840508-98eb-4563-92c2-a4bbf5b0293e,26-35,34,83,Other,South,Smoker,Weekly,28.0,112.6,False,False,189.2,69.6,2024-06-04
+f7017018-4506-425d-be4f-2f5da4fbac62,46-60,55,74,Female,West,Non-Smoker,Rarely,28.1,115.6,False,True,224.3,122.2,2024-12-02
+1ae7d85c-c71b-438b-aa55-958c9dcb851f,46-60,54,65,Male,East,Former Smoker,Rarely,23.9,128.6,False,True,211.8,97.7,2024-11-07
+5fe954d8-6165-4774-8b12-3969d68fe8cf,26-35,34,58,Male,West,Non-Smoker,Rarely,21.1,127.5,True,True,182.2,90.4,2023-05-19
+e86a3c79-78fb-4ca0-b5ea-da34c0d997b8,46-60,51,73,Male,South,Former Smoker,Daily,25.8,135.6,False,True,182.8,76.4,2023-10-03
+7af4c758-d87f-49c9-84f8-ee5f8f905dce,36-45,43,65,Female,North,Non-Smoker,Weekly,23.3,125.6,False,True,179.7,67.2,2023-10-18
+a0613b80-c38b-4c08-9d63-464175148db4,46-60,59,62,Male,North,Former Smoker,Rarely,20.6,141.4,False,False,187.4,96.8,2023-02-22
+dbe0dd0c-3299-4ecc-bbab-d17ab918d545,46-60,56,69,Male,East,Smoker,Never,28.7,131.4,True,False,210.7,129.7,2024-11-17
+24ad765a-5660-48a0-877b-cccb3652e53a,36-45,36,60,Male,West,Smoker,Weekly,24.7,127.6,True,False,182.6,105.0,2023-04-20
+f8236eb0-2436-4536-be8e-723d7cd0759f,18-25,19,73,Female,North,Non-Smoker,Weekly,25.5,108.0,False,False,171.6,99.5,2024-12-15
+5d818ad6-0f5d-41df-8c3f-3beb6c023d6a,46-60,49,68,Female,West,Former Smoker,Weekly,25.5,125.5,False,False,172.8,105.1,2024-10-09
+0bba4838-4c80-4d01-a799-0b47966a3abd,26-35,26,70,Male,South,Former Smoker,Never,23.0,106.9,False,True,172.0,90.0,2023-01-04
+abd56fa5-452b-48ba-8981-5eb9e2c08739,26-35,33,85,Male,North,Smoker,Weekly,27.0,124.6,True,False,145.5,108.5,2024-10-28
+417e77b8-8cfc-41c5-a65f-dc8bf0a485b0,18-25,18,75,Female,East,Non-Smoker,Weekly,26.1,113.0,False,False,149.9,75.6,2024-11-14
+6d137011-c1b0-4a1b-95b8-3f8621d6024b,36-45,38,67,Female,South,Former Smoker,Never,26.3,120.7,False,False,208.6,129.1,2023-02-16
+8c3f7ca1-1e21-4937-89ed-36393842c1e8,46-60,58,73,Female,East,Non-Smoker,Daily,23.4,125.5,True,True,171.2,87.8,2023-04-04
+0a83f51d-c4cc-401b-89f7-30b8ea3e6da8,18-25,21,47,Male,South,Non-Smoker,Daily,16.3,110.7,False,False,170.4,66.6,2024-07-13
+8812f166-61af-433e-b409-15817e474156,36-45,43,54,Female,North,Former Smoker,Rarely,22.2,135.5,True,True,159.8,105.8,2023-08-01
+2f5421d6-7726-4c9f-8ccb-efdc90da98fc,26-35,31,67,Female,East,Non-Smoker,Never,27.3,132.6,False,True,196.2,126.9,2024-03-11
+9382203d-3f81-4f88-915b-f74a4044c2c3,46-60,59,77,Female,East,Non-Smoker,Weekly,23.6,135.3,False,True,187.3,111.3,2024-05-22
+f930a4e6-810b-419c-b9c2-dbb3ea8936de,26-35,32,60,Female,South,Non-Smoker,Weekly,18.7,100.4,False,False,158.8,71.9,2024-10-12
+b3d27105-fd28-40ae-ab87-de89f6f2b5ce,46-60,59,78,Male,East,Smoker,Weekly,35.8,141.8,False,False,230.7,129.4,2023-07-24
+f7db58a3-e41e-4286-b74d-f866ceffa3e7,36-45,43,48,Male,South,Former Smoker,Weekly,19.6,118.3,False,True,143.5,76.7,2024-01-16
+533131e5-4377-4cc0-b12e-2bf092141c82,60+,62,101,Female,South,Non-Smoker,Rarely,32.3,129.3,False,True,231.9,125.5,2023-03-14
+b1031a9f-cf74-4ddd-85bf-384c0a8e8d08,18-25,22,60,Female,South,Former Smoker,Weekly,21.4,117.5,True,False,195.1,63.9,2024-05-30
+65ce93df-1369-4695-817d-329344a898d0,26-35,33,69,Female,South,Smoker,Weekly,22.9,108.8,False,False,184.1,89.4,2023-03-17
+f5bfa4b5-c684-4325-a204-500f2f73377b,18-25,20,56,Female,North,Former Smoker,Weekly,20.1,129.2,False,True,172.4,70.4,2023-03-18
+e536fd2a-8f59-4c28-96a2-e0cba3b64f2c,60+,67,85,Female,South,Non-Smoker,Rarely,28.3,146.6,False,True,226.2,122.2,2024-02-14
+b0b1cade-15df-40a0-b527-ccf672f88b3e,60+,63,60,Female,West,Smoker,Weekly,21.3,140.2,True,True,212.9,114.2,2024-09-05
+8109773f-453e-496b-8e67-78dee9b09117,26-35,32,53,Male,East,Smoker,Never,19.6,121.1,False,False,160.6,103.6,2023-04-16
+88d4846b-f013-4249-8136-7de0b8333f5e,46-60,59,88,Female,West,Non-Smoker,Daily,28.1,143.6,False,False,240.0,98.9,2024-07-04
+b93e0906-b39b-4f71-8af3-8137d683e744,46-60,56,65,Male,North,Non-Smoker,Rarely,22.6,132.6,False,False,181.3,107.9,2024-04-20
+20a2d918-e136-4811-814b-45f4f7a45100,36-45,37,77,Male,West,Former Smoker,Rarely,25.8,134.7,False,False,164.5,113.2,2023-10-02
+1496d0cf-9751-48e2-8cc2-f66aa42ae547,36-45,41,59,Other,East,Smoker,Weekly,20.6,125.5,True,True,237.7,90.4,2023-03-29
+3a8f6636-4d89-4c78-9b63-100ae8ec528b,26-35,28,67,Male,West,Smoker,Weekly,24.9,142.2,True,False,206.7,84.9,2024-12-23
+3885d290-c3c3-48a6-8370-d367d7aa5903,18-25,20,89,Male,North,Non-Smoker,Weekly,27.2,126.6,False,False,174.3,103.1,2023-03-18
+51bf6667-b128-411a-a6de-b708bd203f8b,60+,75,73,Male,South,Non-Smoker,Weekly,25.0,140.3,True,True,184.9,78.7,2023-03-18
+d2c3bb58-67e1-44a3-b4bb-f1c358857c46,60+,65,55,Female,West,Non-Smoker,Weekly,20.0,139.8,True,True,215.3,109.7,2024-03-17
+1f0267cb-3887-4148-bf29-415eaf8cc7cf,46-60,57,90,Male,North,Former Smoker,Daily,28.2,129.4,False,True,271.1,85.3,2024-06-23
+dcba65be-3fd4-4514-98e5-3fadf92d3357,26-35,32,64,Male,North,Former Smoker,Weekly,25.9,110.0,False,False,197.9,91.4,2023-09-02
+5a168c43-f5f3-45f4-b7d3-5be35901d189,26-35,34,76,Male,East,Former Smoker,Rarely,21.9,122.5,False,False,185.1,103.4,2024-07-31
+6d2fbe6f-4dc6-4ed9-9444-93c87334934e,46-60,46,65,Male,East,Non-Smoker,Weekly,23.6,121.9,False,False,202.3,89.6,2024-01-17
+0a8b69e4-a873-41e5-a874-6c3fae4da801,60+,67,56,Male,West,Non-Smoker,Rarely,22.6,128.1,True,False,191.7,110.3,2024-12-17
+80f06208-974f-4e5f-aec0-94e415abc1e1,60+,72,103,Male,South,Non-Smoker,Weekly,30.6,150.6,False,False,205.1,131.2,2024-07-23
+1c12790a-33a2-40a6-9605-958f759da416,46-60,54,68,Female,North,Non-Smoker,Never,25.3,128.7,True,True,184.0,117.4,2024-12-13
+9e2efbed-090e-4c8c-94af-87eb6dca7a1c,46-60,46,58,Male,West,Former Smoker,Rarely,20.0,125.2,False,True,165.6,95.1,2023-05-22
+eafbf809-0f0a-4b22-bb9f-864c3c55296a,18-25,22,63,Male,North,Smoker,Daily,21.0,115.5,False,False,173.2,72.9,2024-01-03
+8433cc61-afa6-476a-ae56-766b0fd614ef,26-35,29,64,Male,North,Non-Smoker,Rarely,20.3,121.9,False,True,157.8,87.5,2023-03-25
+5b0ce030-39fa-4089-ab38-2de4f28121cd,60+,64,60,Male,South,Smoker,Daily,20.6,142.3,False,True,209.0,70.0,2023-05-23
+5b124e8c-94b7-4f05-8390-fd0600e430e2,46-60,55,63,Female,South,Non-Smoker,Weekly,23.7,134.9,True,True,184.8,94.2,2023-12-18
+ea1ec058-4708-4a93-86d3-91af5fca5fbc,18-25,20,70,Female,West,Former Smoker,Never,24.4,110.7,False,False,170.6,84.9,2024-06-28
+17e55768-b519-4b77-a616-60aec37d8d09,18-25,18,43,Male,South,Non-Smoker,Daily,15.9,118.2,False,False,154.6,60.0,2023-06-01
+974ff7df-e6e7-49b7-be53-e2f63e11abe8,46-60,58,85,Male,South,Smoker,Weekly,29.4,158.3,False,False,225.1,78.1,2023-06-07
+f0f86bf4-24e2-4152-b0ac-d8a5635e5192,18-25,19,79,Male,West,Former Smoker,Rarely,24.1,123.5,False,False,201.4,92.4,2024-03-21
+2a2b45eb-abff-4e07-9876-231cc0298c80,26-35,29,72,Female,South,Non-Smoker,Never,23.8,107.7,False,True,172.9,131.4,2024-10-14
+46d99bfe-e826-41e1-9ce0-8dc201f4a65d,36-45,41,61,Female,East,Smoker,Rarely,21.1,118.5,True,True,252.6,83.7,2023-10-30
+1aa24fde-5082-4431-b166-43b94fd55865,46-60,47,73,Female,North,Non-Smoker,Weekly,24.1,119.5,False,False,194.5,111.3,2024-09-15
+2d7fd40e-a0ae-4171-a8a6-6f3afca1f03c,46-60,53,84,Male,North,Non-Smoker,Rarely,27.5,122.8,True,True,183.4,120.6,2024-10-17
+db0cb8cc-f169-40d0-84db-a0c0e97fdba3,26-35,33,65,Female,North,Smoker,Weekly,25.4,126.0,True,False,229.8,76.6,2024-03-25
+52c91e83-1c46-4e6b-a6e9-1c3535c7e452,46-60,46,78,Male,North,Former Smoker,Rarely,27.4,134.8,False,True,186.9,86.7,2024-12-21
+670a3e3d-5e4b-4fcf-955c-2b18de583fe9,26-35,28,83,Male,West,Non-Smoker,Never,23.4,118.0,False,False,109.8,120.0,2023-08-12
+c2998c0a-1be3-4346-8a8e-d7091a46552b,26-35,34,47,Male,North,Former Smoker,Rarely,15.0,115.8,False,False,164.3,77.9,2023-02-12
+bfea78a6-37ee-4d89-bac1-bc61ef7877dd,46-60,50,81,Male,North,Non-Smoker,Never,30.3,127.0,False,True,189.3,102.7,2023-09-21
+6ce95cd8-b210-4b65-8f12-9b280b2fb7c4,46-60,51,59,Female,North,Smoker,Daily,22.1,130.5,False,False,246.7,75.5,2023-01-03
+c35d6c36-103f-45c1-b3f3-2ef30c35a14d,46-60,49,70,Female,North,Non-Smoker,Rarely,26.5,134.0,False,False,167.8,107.3,2024-09-28
+e48101f3-ba09-4280-8e9d-7ed54a25935e,46-60,55,92,Male,East,Smoker,Rarely,30.0,119.1,True,False,210.9,96.2,2023-09-25
+63c4e724-cf32-46eb-a056-6f7fc24e9ede,36-45,37,94,Female,North,Non-Smoker,Daily,28.8,122.9,True,True,215.1,60.0,2024-08-18
+821a9e11-5a28-462b-9ab1-53ca4f353e4a,18-25,20,66,Other,East,Former Smoker,Never,22.2,116.8,False,True,171.7,96.1,2023-01-16
+0832e628-9110-4b5f-b9a5-497416f58888,36-45,43,70,Female,West,Non-Smoker,Weekly,24.4,129.8,False,True,178.6,92.5,2023-11-30
+a0db97fd-23bb-497d-84d0-b31261b3dae1,26-35,31,73,Female,South,Non-Smoker,Rarely,27.1,109.2,False,True,157.6,96.7,2024-04-08
+c4555ae5-2ed2-4d8f-9f61-95f661de14cf,26-35,30,59,Female,North,Smoker,Rarely,20.4,110.9,False,False,196.5,105.1,2023-02-28
+8bbebde7-5e1c-4e2f-8704-0c7c74603f7f,60+,61,62,Other,South,Smoker,Rarely,23.7,142.4,False,True,215.7,101.3,2023-06-26
+dcbbd070-e971-4fb3-ae12-05759a54c415,36-45,40,47,Female,South,Smoker,Daily,20.0,106.2,False,False,176.0,82.2,2023-03-04
+eff059e6-5365-4d4e-801d-347e8fc8f248,60+,66,85,Male,West,Non-Smoker,Rarely,25.8,145.6,True,True,185.1,120.9,2024-07-14
+c6d081e4-281c-40aa-9b54-9c64510e304f,46-60,51,61,Male,South,Smoker,Weekly,24.0,135.1,True,True,188.4,98.1,2023-11-03
+93cb7797-404c-400b-af1f-c71cb2c6d2a6,46-60,52,68,Female,East,Non-Smoker,Never,24.9,141.5,True,False,165.9,146.6,2023-09-03
+e8792849-a021-458d-9df9-54e50acba779,36-45,39,62,Male,South,Non-Smoker,Weekly,20.8,106.6,False,False,198.7,70.5,2023-10-16
+8d31f5fc-5149-494f-9934-af64d7986097,36-45,43,85,Female,South,Non-Smoker,Weekly,26.4,119.2,False,True,205.3,85.1,2023-11-28
+1ebc1b1b-08dd-4cf3-8bdc-1782ea12aaf3,36-45,42,81,Male,South,Smoker,Rarely,27.9,108.2,False,False,229.7,110.3,2024-06-10
+7ce9deb7-9484-4cee-b692-0eafca348457,26-35,34,70,Male,North,Non-Smoker,Weekly,27.7,113.0,True,False,179.8,117.2,2023-09-12
+7dfb1d55-db1b-4ee2-9454-82a96aace811,46-60,52,64,Male,North,Former Smoker,Rarely,23.3,125.8,True,False,182.7,94.1,2024-08-26
+01dd36b9-937e-4678-8b17-751ca33124da,26-35,28,67,Male,East,Non-Smoker,Rarely,25.4,97.1,False,True,166.5,77.9,2024-05-24
+14115f67-e0ca-479a-b473-62712b558053,18-25,20,70,Female,East,Non-Smoker,Never,24.9,109.2,False,False,190.6,131.4,2024-12-18
+6cf6e9d0-422a-4e94-9bd6-d1816dead767,46-60,53,73,Female,North,Smoker,Rarely,23.1,113.0,False,False,163.8,85.3,2024-08-28
+552f0214-c150-4f42-832d-9bca4e12151d,26-35,30,55,Female,East,Former Smoker,Weekly,25.2,117.8,False,False,160.6,98.5,2024-04-07
+1399de6e-d858-4a6f-a0d9-d8015c7eaae3,60+,64,59,Female,North,Non-Smoker,Daily,21.8,139.7,False,True,174.4,108.2,2023-07-18
+80caf9a4-6752-4281-86c0-289412595d42,60+,66,61,Male,West,Non-Smoker,Daily,22.7,129.4,False,False,233.2,83.8,2023-09-28
+35c667ff-23f3-4b46-b9e2-89ea52f00557,60+,62,48,Female,South,Former Smoker,Daily,19.4,145.1,False,False,180.1,75.0,2024-07-11
+dbf64a70-1159-48e0-a3ec-bded2f12cbc6,36-45,39,61,Female,South,Non-Smoker,Daily,20.3,124.9,True,True,133.9,70.4,2023-03-05
+a8cc3662-1e72-437e-92c6-52e0ca5a6049,18-25,21,56,Female,East,Non-Smoker,Rarely,23.0,125.5,False,False,169.2,100.9,2023-08-18
+0c095d27-9b90-4105-bc4e-e5e35be33618,60+,71,77,Male,North,Non-Smoker,Rarely,30.9,130.7,True,True,203.8,130.2,2023-09-06
+b77839cc-94d6-4d69-a747-3cab08c62bb9,36-45,39,69,Female,North,Smoker,Weekly,22.6,119.0,False,False,183.6,92.7,2023-09-03
+232b4166-5d0a-4e78-9b58-ebbe8a7f9103,60+,75,76,Female,East,Former Smoker,Rarely,23.4,140.4,False,False,190.8,132.4,2024-08-09
+a7b30474-6b26-4d1a-ab1a-194783b5771c,60+,66,91,Other,North,Non-Smoker,Never,32.3,121.7,False,False,193.3,130.3,2023-06-06
+eb85120c-dc7b-4057-a161-32478a714f36,60+,77,63,Female,West,Non-Smoker,Rarely,25.2,140.9,False,True,228.8,126.9,2024-12-02
+ddcf08dd-57a1-4eb0-955a-95f3d5fa9083,26-35,33,47,Male,South,Smoker,Rarely,18.0,117.6,False,False,192.8,77.0,2024-07-17
+fec87061-0916-4a6e-86b6-72d797f855c3,36-45,41,75,Female,East,Smoker,Weekly,24.2,142.3,True,True,196.1,130.2,2023-03-29
+1063c3c8-226e-419f-8854-bb6cea8d3e3f,60+,79,74,Female,East,Non-Smoker,Weekly,25.9,144.3,False,True,186.0,132.7,2023-11-09
+f3aa4362-9794-4a2e-8e58-56e35a7df79b,26-35,34,79,Male,North,Non-Smoker,Daily,28.2,132.3,False,False,176.0,87.2,2023-03-07
+dede196a-9733-44d4-8711-dc39775d6aa8,26-35,27,70,Female,East,Non-Smoker,Weekly,24.1,107.7,True,False,176.2,112.4,2024-10-23
+1492d889-df71-48da-9647-9a431e0e173f,36-45,43,72,Female,West,Non-Smoker,Never,25.6,133.4,False,False,191.8,133.7,2023-01-20
+88bc9f4e-9de2-490a-9a3d-0f341f48090a,60+,79,78,Male,North,Non-Smoker,Rarely,24.1,150.5,False,True,215.3,129.7,2023-02-02
+3ac00a1a-fa7d-45de-8db3-06b03beff3ef,46-60,58,69,Male,North,Smoker,Weekly,26.2,137.0,False,False,194.0,66.1,2024-07-11
+177820de-e7d2-40c1-a4f5-64b7593daeba,36-45,40,73,Male,North,Non-Smoker,Weekly,28.1,116.3,False,False,124.8,111.5,2023-03-14
+b7716789-8dc0-4a6e-b178-47fb55238389,18-25,23,57,Male,North,Smoker,Rarely,23.3,113.8,True,True,230.6,96.6,2023-12-09
+7920ed36-b167-4582-9e43-f2b80540d6d3,46-60,55,55,Male,West,Former Smoker,Daily,20.4,138.9,False,False,154.9,90.8,2023-05-13
+3bb9f840-3235-4a18-8792-74e3c7c4cb2b,60+,64,69,Female,North,Non-Smoker,Weekly,27.3,159.5,True,False,154.0,110.0,2023-02-24
+8cb91527-37ac-4efe-9446-5cdf36e3dc27,18-25,20,69,Male,East,Smoker,Never,24.0,110.6,True,False,187.3,107.3,2023-03-02
+61715ebf-86b5-4cc5-97cc-0d241bdb9222,36-45,39,71,Male,West,Non-Smoker,Weekly,25.0,110.2,False,True,137.7,115.0,2024-06-03
+24283732-6ba2-47e1-829d-6248117d9e3d,60+,61,57,Female,South,Non-Smoker,Daily,22.4,136.7,False,False,174.8,96.6,2023-09-29
+e900d02a-7c78-4a4b-9a75-ed1c1929ba47,46-60,49,70,Female,South,Non-Smoker,Weekly,23.3,115.9,False,True,200.1,99.5,2023-09-03
+50dea79f-f322-4f38-a65e-2115b634a1f5,46-60,46,81,Male,East,Non-Smoker,Never,25.0,133.8,True,False,230.3,130.0,2023-06-25
+040b6989-1398-4077-b29d-21c6809921cd,46-60,57,81,Male,East,Non-Smoker,Rarely,27.9,135.0,True,True,208.0,111.8,2024-09-19
+a3a90419-0fd0-4676-b0f2-d63d2f0d4008,36-45,36,49,Male,West,Smoker,Weekly,22.3,125.2,False,False,183.8,98.6,2023-11-13
+4fec8e6b-ffa3-47c4-9705-a4c30e1d1f8b,26-35,31,73,Female,South,Smoker,Weekly,21.7,127.4,True,True,188.8,116.5,2024-12-05
+d857a673-8f0a-4d43-91ec-2811eb3e3e91,46-60,50,66,Male,South,Smoker,Weekly,21.7,134.4,False,True,160.0,87.6,2024-10-23
+53a2d2cb-3d0c-4021-a8d4-cb619290923b,46-60,59,90,Female,South,Non-Smoker,Rarely,26.6,128.3,False,True,187.1,81.5,2023-05-11
+afef3947-f54d-46df-a722-08a0f4b31644,60+,71,85,Other,South,Former Smoker,Rarely,27.2,120.8,False,False,197.4,109.8,2023-04-12
+fdc3af0e-65b7-4abd-b1c5-73922224ee21,60+,64,71,Male,South,Non-Smoker,Daily,22.3,130.4,True,True,201.0,92.5,2023-11-06
+c442bcd2-1d37-4060-a522-455f17a7d31a,36-45,38,68,Female,North,Smoker,Never,23.5,142.9,True,True,246.4,119.1,2023-10-19
+24e12eda-6d3b-410e-b6b9-355e29e2134a,36-45,36,75,Other,East,Non-Smoker,Daily,27.1,105.2,False,False,132.1,89.7,2024-12-22
+1db7bda7-0152-42cb-8e23-5390c5c810ee,46-60,51,56,Male,North,Former Smoker,Weekly,19.0,114.1,False,True,172.6,101.7,2024-05-09
+ec5f2fb5-971c-4d1b-b17f-2d37b2704870,46-60,47,63,Female,South,Non-Smoker,Daily,23.8,127.3,False,False,139.5,124.0,2023-12-27
+ebeec05c-5f6b-43c2-9413-9f8e4d7790c3,46-60,53,84,Female,West,Former Smoker,Weekly,28.7,132.7,True,True,183.5,117.6,2023-12-04
+28cdde3a-7413-46aa-a06d-cf88f375ade7,46-60,55,40,Female,West,Non-Smoker,Weekly,15.0,123.3,False,True,159.6,100.3,2024-08-01
+915eabec-5f50-44b2-aff8-39ac876681c1,60+,65,80,Female,South,Smoker,Weekly,28.1,134.7,True,False,187.6,106.3,2023-01-10
+451cbd8e-7e36-4ff0-9b17-616fe647af3c,26-35,32,66,Female,South,Former Smoker,Daily,20.5,129.0,False,False,192.2,60.0,2023-02-18
+f5f0d843-88b5-4f5d-8974-81763fc67f1e,36-45,37,69,Female,West,Non-Smoker,Rarely,24.3,119.9,False,False,184.4,60.0,2024-05-01
+ee2a1a8f-52c7-412d-b8c5-a69be197568b,18-25,22,64,Female,North,Non-Smoker,Daily,19.4,116.5,False,False,180.0,64.5,2024-09-14
+4dae8527-38d5-42f6-b809-9aae2ebfc414,36-45,43,75,Female,North,Non-Smoker,Rarely,27.2,127.4,False,True,172.9,61.6,2023-11-17
+29465039-a163-4680-99ce-32d3bb4a2fc1,18-25,19,78,Female,South,Former Smoker,Never,25.2,117.7,False,False,162.9,112.8,2024-07-22
+2d877422-6323-41d3-83c9-6a077bb761f1,36-45,39,62,Female,North,Non-Smoker,Weekly,24.1,126.3,False,False,219.2,88.7,2024-09-16
+8720ba85-8c9b-4f26-8027-5a0470492d07,36-45,36,64,Male,West,Non-Smoker,Weekly,20.7,118.0,False,False,172.8,68.7,2023-05-13
+7a2cb96f-b0e3-465d-82dd-41c248306603,26-35,30,83,Male,North,Non-Smoker,Weekly,28.6,108.2,False,False,197.7,100.5,2024-08-05
+7a2b6287-b1f7-41a0-8a10-7180fd1fb097,36-45,44,61,Male,South,Non-Smoker,Daily,22.1,131.4,False,True,165.5,71.9,2023-03-24
+f3f191fd-a44f-4802-b70f-de7fefa15e0e,18-25,18,63,Male,West,Non-Smoker,Weekly,28.9,123.7,False,False,186.2,102.1,2023-02-26
+f2c6408e-7c05-4b75-a78d-30702ee7cf07,18-25,18,77,Male,North,Former Smoker,Rarely,27.8,96.6,True,False,153.2,104.3,2024-01-11
+be11c36b-d7ec-41d2-b9bd-956a3f004aab,46-60,56,57,Female,East,Former Smoker,Rarely,19.7,119.8,True,False,140.2,82.4,2023-12-15
+2746ed33-e4a7-4167-8224-7655e5e9cf03,36-45,43,61,Male,West,Former Smoker,Daily,20.0,131.8,False,True,177.4,75.9,2023-09-28
+e0ea7b6e-eeb1-4499-bf77-e91e40b2d412,18-25,23,63,Female,West,Smoker,Rarely,19.3,99.6,False,False,169.0,85.7,2024-04-27
+53ea68dc-3e78-48db-82e1-07b7f63579b2,36-45,42,81,Male,East,Non-Smoker,Weekly,23.8,130.5,True,True,140.7,73.8,2023-04-21
+ab63198e-1604-43b6-b825-42b379c21f24,46-60,48,79,Female,East,Non-Smoker,Rarely,25.0,123.0,False,True,192.4,101.7,2023-03-17
+e57d3e5b-c5d9-4eda-8cea-caf57ae32f0b,26-35,26,62,Other,West,Non-Smoker,Rarely,23.3,127.6,False,False,145.6,67.9,2023-06-07
+b897a006-90fe-4baf-9b3c-acbb3637ae2b,46-60,50,76,Male,East,Non-Smoker,Rarely,27.7,127.3,True,False,269.8,111.6,2024-06-15
+6a5c7af7-8f1b-4a21-982b-1527a0464571,18-25,23,75,Female,South,Former Smoker,Daily,24.9,110.1,False,True,130.9,74.3,2024-10-04
+1bba4229-e233-4a98-8eb5-8c6134fb84dd,18-25,21,68,Male,South,Non-Smoker,Daily,23.1,115.2,False,False,133.4,60.0,2023-11-25
+a791741d-c98a-4a41-ac1b-8d06acc338ec,36-45,37,78,Female,South,Non-Smoker,Never,23.8,118.7,False,False,199.1,99.7,2023-05-02
+619f9d73-f0fe-4487-904e-70ea8203e75c,36-45,40,76,Male,West,Smoker,Weekly,21.4,118.2,False,True,193.6,82.6,2023-02-10
+badbda25-d197-4b08-8b5a-83d984361fb2,46-60,53,93,Female,East,Non-Smoker,Never,26.8,150.0,False,False,215.0,133.7,2023-06-16
+9079c5ae-f359-4620-960d-a367417ea2fb,46-60,56,85,Male,East,Non-Smoker,Weekly,26.3,118.9,False,True,205.1,105.4,2024-10-03
+8c42b354-c497-4630-b3c5-484800f293ee,60+,69,70,Female,North,Non-Smoker,Daily,23.5,109.2,False,True,188.0,78.2,2023-01-23
+e88cbf61-de53-4d7d-97b5-707ef5386ba8,36-45,37,56,Female,North,Smoker,Daily,17.5,137.8,False,False,155.3,98.7,2023-10-06
+6dde0987-ae8d-476d-8280-9c6661402efe,26-35,28,82,Male,East,Smoker,Weekly,24.8,118.4,False,False,218.1,101.6,2024-04-13
+1e9e85af-ea6b-4f99-b7fd-3b077c4a7403,46-60,48,70,Male,East,Non-Smoker,Never,25.2,121.6,True,False,155.6,108.8,2024-02-04
+5c193f8a-91dc-4b53-855a-8af6f8fb0788,26-35,26,57,Male,East,Smoker,Weekly,21.4,117.1,False,True,199.7,63.2,2023-01-09
+19d5c7b1-b47f-4814-994a-db3d9f5cad31,36-45,43,62,Male,West,Smoker,Weekly,23.8,123.7,False,True,225.1,88.8,2023-01-13
+3a944a1d-88a9-4883-8357-7c87ed90c779,18-25,23,56,Female,East,Smoker,Weekly,21.7,112.1,False,True,180.5,82.7,2023-02-21
+e6cd2ce9-094b-4a55-a29c-fbf6cd5e7d44,18-25,21,47,Male,North,Smoker,Daily,19.1,106.9,True,False,171.3,77.1,2023-07-28
+7a041fba-c7d2-4211-bde5-56d0e68646d8,60+,68,64,Male,West,Smoker,Weekly,22.2,138.8,False,True,195.6,109.4,2024-07-03
+43f98ec9-5aeb-4b28-b5af-d4491e2768e5,46-60,56,58,Male,East,Non-Smoker,Daily,22.7,121.7,False,True,202.8,99.5,2024-09-03
+d9f69e96-319c-4bbd-827d-a718321e4cc5,46-60,54,71,Female,North,Non-Smoker,Rarely,27.0,135.7,False,False,118.7,79.1,2024-12-05
+07358997-36f8-4473-ada0-69bac4b6365a,36-45,40,74,Male,West,Former Smoker,Weekly,24.6,128.7,False,False,198.6,98.6,2024-02-06
+0029269f-9f0c-448c-a924-8b273cfa15d1,26-35,28,74,Male,East,Non-Smoker,Weekly,25.6,107.6,False,False,175.3,91.0,2023-07-10
+97acb42e-6e97-4610-9d1e-c5fd5757dcac,26-35,30,61,Male,East,Non-Smoker,Weekly,20.8,114.9,False,False,162.6,127.0,2023-02-20
+e49b2433-3f78-47ce-a875-8d8665f97937,26-35,30,61,Male,East,Smoker,Weekly,19.1,116.3,False,True,192.2,85.2,2024-01-28
+7bc71037-0da4-447d-bd78-c2bb3e6b77d8,36-45,40,76,Female,West,Smoker,Never,25.0,119.3,False,False,166.9,101.8,2024-10-14
+3c86c75d-beb5-4eff-90a6-1383ee9b3b20,46-60,48,73,Male,North,Non-Smoker,Weekly,22.6,129.4,True,True,124.4,96.6,2024-11-10
+3bf4c38f-1508-41ae-8cc6-cdb4b0bb5615,46-60,56,61,Male,North,Smoker,Daily,21.5,131.6,True,False,221.5,85.5,2024-09-12
+1f690c7c-61f0-4c2c-8c28-42795c604249,26-35,29,77,Female,South,Non-Smoker,Rarely,23.5,111.5,False,False,203.5,60.7,2024-12-19
+737b37bf-6ca3-4f81-90bc-a4ee321b0a1b,60+,73,67,Female,East,Non-Smoker,Daily,22.9,124.2,True,True,161.6,99.0,2023-10-27
+c335279e-67eb-410a-9789-90f5674dfa73,46-60,55,55,Male,South,Non-Smoker,Daily,19.2,112.3,False,False,159.9,77.2,2024-09-13
+7045f2c1-37fd-4e7a-83d4-97e6a8923825,36-45,44,79,Female,South,Smoker,Never,24.4,150.2,False,False,222.5,111.0,2023-07-15
+a96dca9c-d9a8-4b31-84a4-70df024a744f,46-60,47,66,Female,North,Non-Smoker,Rarely,25.3,127.6,False,False,196.1,85.5,2024-02-21
+9350e111-7ef5-406e-91d8-cbe07aabd64d,36-45,43,95,Male,West,Non-Smoker,Never,28.0,113.9,False,True,261.3,100.1,2024-10-25
+87497c3a-c7f4-4913-bf24-f8298ac6679f,26-35,33,69,Female,West,Smoker,Weekly,25.2,129.4,True,False,222.7,107.5,2024-02-24
+12498b2f-3211-4ffe-af81-037d27188adf,36-45,42,63,Female,North,Non-Smoker,Weekly,25.2,132.8,False,True,203.9,113.6,2024-10-01
+a54da946-a5e4-4aab-9175-a97713c2b4ac,46-60,53,67,Male,West,Non-Smoker,Daily,22.3,125.9,False,True,169.3,92.2,2024-09-08
+2bc07aaa-21d2-4ad2-91df-1e0c37bd576a,18-25,23,64,Male,South,Former Smoker,Weekly,23.6,130.0,False,False,179.0,61.7,2024-06-05
+0e21e4a2-f7e5-4b2d-b88b-0fe96178dca8,18-25,20,75,Male,East,Smoker,Rarely,22.0,103.4,False,False,219.0,92.8,2023-12-22
+59b9255a-3f32-4899-adac-fffc5c64fcee,18-25,22,61,Female,North,Former Smoker,Weekly,22.7,95.2,False,False,159.9,60.3,2023-05-28
+ccc456c8-9b54-46a1-a913-c457942d47d5,18-25,23,57,Other,East,Non-Smoker,Rarely,19.6,112.7,False,False,158.2,73.0,2023-12-31
+7d8a304a-9d89-47e1-8335-1fdd3bd56b21,60+,61,63,Female,West,Non-Smoker,Rarely,25.6,132.8,True,False,202.3,116.3,2023-12-30
+83c10fe0-1938-402e-b9fa-c490100161c8,46-60,52,73,Male,East,Smoker,Daily,23.9,99.7,False,False,192.9,97.9,2024-10-13
+e6f4f57d-3b90-4f39-b4f9-f8a9afc6138b,36-45,36,64,Female,West,Non-Smoker,Weekly,24.5,113.0,False,False,184.1,101.0,2024-12-02
+758fbb16-a43f-4d79-898e-18a758003bad,18-25,18,55,Female,West,Smoker,Rarely,18.1,104.8,True,False,181.4,98.8,2024-02-06
+cc92dddc-aab8-49ff-b767-438c6c2b7dda,36-45,36,64,Male,South,Non-Smoker,Weekly,23.7,104.6,False,True,213.4,101.4,2024-08-28
+61e4c894-7000-42a3-a4c4-85311264e572,36-45,36,44,Male,West,Smoker,Rarely,19.1,112.8,False,False,186.2,60.0,2024-05-06
+49814fc9-9444-4211-a148-a1da9e1d7f98,26-35,32,67,Female,South,Former Smoker,Weekly,23.6,125.8,False,False,190.0,86.1,2023-08-17
+f9e35d67-5e97-409d-b7f9-183abcc39b61,36-45,37,55,Male,South,Non-Smoker,Daily,19.4,105.3,False,False,168.1,76.2,2024-07-28
+f1c8a7f5-6786-4b72-86f6-13f2c2ae9324,36-45,40,89,Female,South,Non-Smoker,Rarely,28.9,114.5,False,True,201.9,99.6,2024-06-20
+e58dd513-36e0-4ab8-b708-5223ea572de1,46-60,53,89,Male,North,Non-Smoker,Never,27.2,112.0,False,False,188.0,109.0,2023-09-25
+9e7e20a2-7766-4131-8fa7-a72accb26c60,46-60,53,85,Male,North,Smoker,Daily,25.2,147.2,True,False,226.2,74.8,2024-02-09
+60c588f2-af8d-46fc-94b7-4f736dba0b58,18-25,20,87,Male,West,Non-Smoker,Rarely,28.5,120.3,False,False,187.6,131.4,2023-01-11
+f22d5f8c-7836-4103-b279-2a9dcd0c67fe,36-45,42,62,Male,South,Non-Smoker,Weekly,21.5,94.3,False,False,151.9,85.6,2023-11-16
+1092968c-488a-4832-b6ab-4332e0d24fef,46-60,48,63,Female,North,Smoker,Rarely,25.7,123.1,False,True,236.0,134.8,2024-12-13
+190cfba5-3f0f-4f25-9d92-d55b59e94823,36-45,41,58,Male,South,Non-Smoker,Rarely,20.3,123.1,False,False,172.2,72.2,2023-05-06
+3f1016e3-7b61-4885-b80d-1a9f6863c231,60+,66,77,Female,East,Former Smoker,Weekly,26.9,148.9,False,True,192.5,116.6,2023-11-02
+323bf4a9-a5f6-47cf-854a-1ae1019e8f09,46-60,48,82,Female,East,Non-Smoker,Weekly,29.7,136.6,True,True,175.5,109.0,2024-12-02
+480cc345-85a7-4df3-a0f3-30d737b5ec6c,26-35,32,63,Female,East,Non-Smoker,Rarely,21.2,111.4,False,False,177.7,74.2,2024-05-25
+5ad11241-daef-4251-8a38-392b9e0de369,18-25,20,61,Male,West,Former Smoker,Weekly,19.5,92.5,False,False,158.5,74.8,2023-03-30
+5442c88e-c461-4dc5-ab68-d238e67ac8b6,46-60,53,64,Female,South,Smoker,Rarely,24.5,142.7,True,True,220.3,99.0,2023-12-21
+0f8ed087-9a0c-4f92-bc0e-b5ec18f1db4f,18-25,19,68,Female,East,Non-Smoker,Daily,26.2,110.8,False,True,175.6,68.9,2024-09-19
+dde50835-3d2e-42b0-a227-3ea2a934997d,36-45,39,78,Male,North,Former Smoker,Never,28.0,126.9,False,False,199.2,111.5,2023-12-18
+2d268ed1-47a6-4409-a6af-64dee8014b07,60+,75,63,Male,East,Smoker,Rarely,23.8,140.5,True,True,297.2,69.3,2024-11-19
+d42853d2-3680-4998-b671-c23ef8537d1f,36-45,36,71,Female,East,Non-Smoker,Never,29.8,109.9,False,True,184.8,127.8,2023-01-14
+6485e62b-e437-4990-b5ea-8d1970a89b28,36-45,39,43,Other,East,Non-Smoker,Daily,16.7,117.8,False,False,152.1,91.8,2023-09-14
+b00bea6e-f00f-4eec-bb2f-75c25b1985a1,46-60,59,79,Male,West,Non-Smoker,Rarely,31.7,136.4,True,True,153.9,118.7,2023-07-28
+0040b338-2d43-473c-bb4d-d2ea0ccc1dd8,36-45,42,84,Female,North,Non-Smoker,Rarely,26.5,118.9,False,False,154.7,132.9,2023-10-08
+e8962bab-2cba-4ba7-a481-fce37861575d,36-45,39,96,Female,South,Former Smoker,Weekly,29.0,131.7,False,False,216.1,112.0,2024-03-18
+787adc57-c2ec-4aee-97a1-f17bc59e3cde,60+,66,53,Female,North,Non-Smoker,Weekly,20.9,114.6,False,True,215.1,114.9,2024-01-24
+e4939e4c-bc06-498e-8398-0de378da90ab,36-45,44,67,Other,South,Smoker,Daily,22.6,126.2,False,True,167.8,102.3,2024-09-08
+14dc95d5-134b-44bd-b519-720637c790ab,60+,61,77,Female,West,Former Smoker,Rarely,25.0,132.9,False,True,259.6,61.1,2024-04-27
+3bc6e25d-3dcb-4f9f-bd71-ec9809a29d7b,60+,65,55,Male,West,Smoker,Weekly,22.7,120.0,False,True,226.6,106.5,2023-05-27
+df391349-a862-4c30-b0ca-ba899ceefbca,26-35,32,49,Male,West,Non-Smoker,Daily,17.2,111.2,False,False,176.9,60.0,2023-10-06
+11acaca0-56a8-448e-9f2d-19dc981f245c,18-25,18,83,Male,West,Non-Smoker,Rarely,23.5,118.5,False,True,217.9,69.5,2024-06-04
+033a25eb-f33a-49a0-ac15-c90ec14bca96,18-25,23,73,Female,South,Non-Smoker,Weekly,24.2,110.7,False,False,210.1,74.7,2024-09-21
+8a25e628-83e5-4502-8255-37e114599dd8,18-25,21,66,Female,East,Non-Smoker,Daily,24.1,112.5,False,True,184.4,74.4,2024-08-28
+a0685764-2adb-494c-89cc-c7dce7f9ed8f,18-25,23,61,Male,South,Former Smoker,Never,22.9,121.3,True,False,185.8,112.6,2024-03-09
+327d42b0-77af-4176-8668-a1ec7ee8d3bb,46-60,47,60,Female,North,Non-Smoker,Never,25.9,120.8,False,True,210.9,121.1,2023-05-24
+7cdf1587-5978-4c26-813e-e6f5498818c8,18-25,19,53,Female,West,Non-Smoker,Weekly,17.9,104.1,True,False,149.9,79.0,2023-10-16
+11a3100d-19dc-419a-91b7-088631d8fd7b,26-35,30,86,Female,West,Smoker,Daily,25.6,113.9,False,True,201.1,94.8,2024-01-21
+fb7a363e-eec7-4d19-a194-1926819413ab,46-60,56,66,Male,North,Former Smoker,Rarely,25.2,130.6,False,False,208.6,113.0,2023-01-14
+593cfe5e-523d-4856-a7c9-7c84c782e0f7,18-25,19,56,Female,South,Former Smoker,Weekly,24.2,111.8,False,False,160.3,95.2,2023-09-14
+ecc68444-3aef-4b29-88f1-cd83fda4e9d5,46-60,46,70,Male,East,Non-Smoker,Weekly,26.5,129.8,False,True,163.7,74.3,2023-12-12
+f84dfc47-bfa4-4632-b4cb-69b02b13b878,26-35,31,84,Male,East,Smoker,Weekly,27.4,133.2,False,False,190.2,85.9,2024-11-28
+71fc12e9-6af6-4cb5-a2f5-ee41f19be2a8,18-25,23,54,Male,North,Smoker,Weekly,19.9,126.2,False,False,156.8,83.7,2023-12-11
+4c076646-855a-46bf-88a8-0b2d5ecffc48,46-60,58,71,Male,East,Smoker,Rarely,27.3,133.2,True,True,220.0,116.0,2024-02-04
+6a089b2c-1a1e-4b65-a072-df49ec798c9d,46-60,49,69,Male,South,Smoker,Weekly,24.4,110.6,False,True,163.2,78.0,2023-07-26
+570d754d-5ddd-4a42-91a9-3a99e9603cc2,60+,73,94,Female,South,Non-Smoker,Rarely,32.7,148.0,False,True,225.4,117.4,2023-06-21
+2b3a5ac0-14cd-4baa-b856-dc67e5fb35b4,46-60,53,60,Male,North,Former Smoker,Never,24.3,133.2,False,False,150.0,90.5,2024-04-08
+8442d99e-810e-4b0b-ae8a-3acbf36b0601,46-60,49,77,Female,South,Non-Smoker,Weekly,28.0,120.8,False,True,181.9,118.7,2023-09-27
+3cff2331-c9c7-4394-ba67-944d9f3591db,26-35,33,65,Male,West,Smoker,Rarely,24.3,131.4,False,True,207.4,96.6,2023-08-09
+bfe6d845-a5bf-48a0-bf12-a62d6bbf83e0,26-35,33,69,Female,North,Non-Smoker,Never,26.1,104.8,False,True,196.7,90.5,2023-06-01
+270cda6d-1299-43fb-bd6d-dbcf9fcf93dc,46-60,50,63,Other,South,Smoker,Weekly,24.7,143.3,False,False,225.6,78.4,2024-09-14
+3b29b068-f5d0-472f-b413-0886e8f1a1f3,46-60,58,90,Male,North,Smoker,Weekly,29.2,136.4,True,True,228.6,113.6,2023-07-02
+0181390e-aea2-431a-9e7b-6dac18c6f8c9,60+,75,73,Male,East,Non-Smoker,Rarely,27.4,128.8,True,True,184.1,130.8,2024-02-03
+4ecd118b-424d-4004-a958-ef0d572312f2,36-45,39,44,Male,South,Non-Smoker,Rarely,19.1,109.9,False,False,197.8,70.5,2023-03-13
+948aa608-346a-4cb0-91bb-90a0b264c8e0,36-45,37,79,Female,West,Non-Smoker,Rarely,27.2,119.4,False,False,154.0,110.3,2024-02-22
+e5980bfc-d474-4bd8-a436-214f5f010055,46-60,56,85,Female,South,Former Smoker,Weekly,28.1,133.0,False,True,225.1,97.4,2023-10-10
+70983155-4ef9-400f-ac6f-0e29ce552488,26-35,28,69,Male,North,Non-Smoker,Never,26.6,118.2,True,False,189.2,122.2,2023-03-15
+7c7e2939-c09b-4fa7-85c8-dc1dcf74a169,60+,79,57,Female,North,Non-Smoker,Daily,21.5,129.7,False,False,242.2,102.8,2023-12-21
+a1cfdda8-b55d-4365-9de5-b7598ef9ff97,60+,64,55,Male,South,Former Smoker,Daily,20.8,132.4,True,True,196.0,89.3,2024-12-27
+cba2309b-e496-4dfa-a421-ea4352c8c313,36-45,39,49,Male,West,Non-Smoker,Rarely,18.0,115.3,False,False,151.5,60.0,2024-05-11
+b27a5e4e-a75a-4245-a1b5-f5d72dc18202,46-60,55,82,Female,West,Smoker,Weekly,26.3,129.8,False,True,182.4,112.8,2023-11-24
+9ac89cee-446d-4ef3-9f64-43404705fe8e,46-60,56,59,Male,West,Former Smoker,Weekly,21.0,119.4,True,False,159.7,102.4,2024-06-18
+9a94e191-ce04-4d97-ad85-c487906a79aa,18-25,20,52,Female,North,Smoker,Weekly,17.0,120.9,False,False,134.7,84.3,2024-08-02
+39cce403-7919-42ef-a827-8c9aec37b525,60+,65,76,Male,South,Non-Smoker,Weekly,29.6,140.1,False,True,230.3,113.4,2024-03-22
+57212e9b-a98b-4971-9dd7-38c9f06efd4b,36-45,39,65,Other,East,Non-Smoker,Daily,24.0,120.6,False,True,205.9,71.1,2024-01-08
+529954ec-67fd-4141-abe0-36e4f639177b,46-60,56,80,Male,North,Non-Smoker,Never,26.0,137.6,True,True,209.0,133.6,2023-12-28
+01bb7b99-d803-4d84-96c5-3022e35e900d,26-35,33,60,Male,West,Non-Smoker,Weekly,22.8,97.0,False,False,172.1,104.2,2023-04-03
+57336715-38f1-4f92-87ee-d1d2d1ef4a05,60+,66,58,Female,South,Non-Smoker,Rarely,18.6,120.8,False,False,245.8,78.2,2023-11-17
+11b8ff66-07d7-4c84-a44a-a2cbd5079a6e,36-45,41,71,Male,West,Smoker,Rarely,26.6,119.3,True,True,201.5,118.5,2023-11-20
+37e5203d-bcf4-4c30-994a-0a54161524df,18-25,24,61,Other,East,Smoker,Never,22.4,143.3,False,True,190.8,104.4,2024-01-19
+0634aa20-5f8f-4d7e-b435-f09ad719e604,60+,75,84,Female,West,Non-Smoker,Daily,25.6,142.8,True,True,208.7,99.4,2024-07-28
+c7501ccd-0247-49f2-92a6-6523f087e2c9,18-25,19,45,Female,West,Non-Smoker,Never,16.6,105.3,False,False,145.9,89.6,2023-12-12
+226d89a9-bd93-4f31-9ce3-138c52632949,26-35,33,75,Female,East,Smoker,Weekly,26.1,135.1,False,True,212.7,94.5,2023-04-13
+1d1fcdf3-4c29-43f8-9389-d4436d069f66,60+,78,73,Female,South,Former Smoker,Rarely,24.5,150.2,True,True,195.2,127.3,2023-08-03
+fa4caf8a-918a-4ac1-a951-0e7ed007a760,60+,61,61,Female,North,Non-Smoker,Rarely,21.3,137.7,False,True,176.0,112.3,2023-07-11
+2d2c89e2-2aad-4849-88d6-8460e4a031be,36-45,43,67,Female,South,Former Smoker,Rarely,23.0,133.0,False,False,198.2,109.2,2024-11-02
+43869405-061e-406b-bebb-5bee09c64ee7,46-60,57,65,Female,East,Non-Smoker,Weekly,23.3,124.0,False,True,180.3,101.4,2024-12-19
+a15aee51-5427-4c12-8fc2-37b7e9fefdbf,36-45,39,67,Male,West,Non-Smoker,Rarely,26.9,117.3,False,False,186.0,112.0,2023-07-13
+56ff2c49-e544-4268-a86e-72cb22c80e52,26-35,29,63,Male,South,Non-Smoker,Weekly,21.6,104.5,False,False,159.8,75.2,2024-01-15
+4cf55787-edd1-49f6-a99b-22b0f8bba09e,26-35,30,71,Female,North,Former Smoker,Rarely,27.0,126.8,True,False,175.3,104.9,2024-02-07
+05214890-7588-4153-88b0-198896b66f72,46-60,53,84,Male,East,Smoker,Never,27.8,135.1,False,False,198.1,116.9,2024-10-25
+32b66d23-c759-4336-8799-b101c669b2f7,46-60,50,87,Female,South,Non-Smoker,Weekly,27.2,122.8,False,True,175.8,71.5,2024-08-22
+aa690cf2-a4ef-41bc-896e-69698b9a0501,46-60,53,63,Male,North,Smoker,Never,26.8,131.1,True,False,193.3,93.9,2023-01-11
+883e39a6-a79d-4e93-a4b2-b78f74030520,46-60,55,86,Male,East,Non-Smoker,Daily,26.8,143.1,False,False,216.4,83.4,2023-07-06
+106b9abc-b97c-49d0-be50-075bdc82ac6a,18-25,18,45,Female,North,Non-Smoker,Daily,16.5,115.1,False,False,157.7,73.0,2024-12-26
+d62d6cfe-2077-4de5-bb5a-7269dd01c896,36-45,44,62,Female,East,Former Smoker,Daily,22.4,142.0,False,True,204.2,73.5,2023-01-15
+6bfcb78c-1d26-49cd-89a0-89192b7824a7,18-25,23,55,Male,West,Former Smoker,Weekly,21.2,119.7,True,False,188.7,76.4,2023-10-24
+f7bfac81-321a-40ee-9eeb-cf5b8910c128,36-45,38,80,Female,South,Smoker,Rarely,27.8,131.2,False,True,191.5,111.1,2024-02-15
+68a8aab7-8495-4d08-81d9-c350e5c9a529,36-45,43,75,Female,North,Smoker,Daily,26.5,131.3,False,False,227.4,80.9,2024-08-07
+17b7a086-cb05-4e97-aca7-dfa76420e01a,60+,69,75,Male,East,Non-Smoker,Daily,24.1,121.9,False,True,203.0,113.4,2023-02-21
+91d8bbdf-c5db-4b31-9df5-b45797ad81f1,36-45,41,58,Female,North,Non-Smoker,Never,22.0,106.6,False,False,174.4,124.4,2024-10-01
+0d32d0e3-32e2-43dd-a608-1176202ac5ad,18-25,20,77,Male,North,Smoker,Rarely,23.4,125.0,False,False,214.6,88.0,2023-01-28
+5733c97d-e4c0-4db1-ad57-a42700854d8c,18-25,24,53,Male,South,Non-Smoker,Rarely,17.5,99.5,False,False,173.2,91.4,2024-07-30
+d3766808-3117-40a1-ae45-e3f807478046,46-60,46,89,Other,West,Non-Smoker,Never,31.1,130.6,False,False,184.5,131.3,2023-01-17
+d4cc709b-7158-4179-95e6-1021f76ff351,46-60,59,66,Male,North,Former Smoker,Rarely,23.9,142.1,True,True,207.3,96.5,2023-12-17
+8231edd7-498d-4a3f-bdcb-24ca3e1c9148,18-25,22,55,Female,East,Smoker,Daily,20.2,111.5,False,True,149.4,86.4,2024-03-03
+a8006235-7489-40c4-8f0c-882320058484,18-25,22,56,Female,East,Non-Smoker,Weekly,20.3,130.3,False,False,167.3,98.8,2024-10-11
+a7d2c72b-2b2e-408e-ab33-efce602830b3,46-60,55,64,Male,West,Non-Smoker,Rarely,22.3,115.1,False,True,152.5,82.3,2023-08-17
+8df18880-f644-477e-847c-562e8d4b7a1d,18-25,23,68,Female,East,Non-Smoker,Weekly,24.6,124.0,False,False,142.5,92.7,2023-07-29
+1b14a861-1892-4292-a0a7-f25de2e60214,46-60,49,64,Female,West,Non-Smoker,Rarely,24.0,128.2,False,False,201.8,99.4,2024-03-06
+d29a55b2-84dc-44a5-a409-fa66de234236,46-60,51,65,Male,East,Non-Smoker,Daily,22.8,135.8,False,True,120.6,98.8,2023-10-21
+7e333f44-d180-4701-b611-ae9763c85a12,18-25,24,51,Female,South,Smoker,Weekly,19.5,107.2,False,True,226.9,76.4,2024-08-04
+92f909af-5a5d-43ba-a851-965899b42549,18-25,18,72,Female,North,Former Smoker,Weekly,24.6,138.2,False,False,184.0,79.9,2023-04-14
+c465d757-a388-4cd3-b006-0a8827ea52e8,60+,61,78,Female,South,Non-Smoker,Rarely,28.3,130.5,False,True,156.0,109.9,2023-07-23
+30145886-9c26-4d97-8132-a79a58ddfe28,36-45,41,70,Female,North,Smoker,Rarely,23.2,134.9,False,False,259.8,111.4,2023-02-22
+228dcd38-d19e-4980-8d7d-5af6d438b826,36-45,42,86,Male,North,Non-Smoker,Rarely,27.7,138.6,False,True,252.9,82.8,2024-01-10
+b80bf6c4-cfad-4ccb-bfd6-a1f74839d6f0,46-60,48,68,Female,North,Smoker,Daily,22.1,124.0,False,True,199.6,68.8,2023-02-23
+63232dea-a78d-483f-965b-3d591a89d6a5,60+,68,76,Female,South,Smoker,Daily,26.3,149.7,False,True,202.0,88.6,2023-10-03
+28967b63-ad29-42f7-9c24-693a6c5be6e4,60+,75,70,Female,North,Former Smoker,Never,23.7,129.4,False,False,249.8,114.5,2023-12-01
+e9ec4623-df61-4f2f-939f-b90097755081,46-60,50,70,Female,South,Non-Smoker,Rarely,25.6,139.6,False,True,181.3,73.5,2023-01-31
+7b240097-f6cf-4c1d-98ab-958cbf25c44f,36-45,44,64,Female,West,Non-Smoker,Daily,21.3,112.2,True,False,184.0,104.2,2023-05-15
+bf64cb36-cb9f-4833-9478-f4dced829dc2,18-25,22,69,Female,East,Non-Smoker,Rarely,22.8,112.6,False,False,194.6,85.4,2023-02-27
+94d47a9c-7acd-4472-89d3-03b2e578e7ec,46-60,54,61,Female,East,Non-Smoker,Weekly,25.2,130.0,False,True,188.8,96.4,2023-04-15
+fd7ad9e5-8fda-4513-8301-3b65a606aa41,36-45,39,70,Female,North,Smoker,Weekly,24.1,135.9,False,True,193.3,118.8,2023-09-23
+65b4f496-7900-4cd5-8fa0-925664f1d912,36-45,44,77,Female,South,Non-Smoker,Daily,23.9,141.6,False,True,151.3,96.4,2024-06-05
+54f0fbe6-9d23-4f91-93a1-2114adc4e7ba,60+,69,67,Female,East,Former Smoker,Rarely,24.4,130.8,False,True,187.9,95.9,2024-05-10
+e91c47b2-0bce-4867-b85a-c044976c2d38,18-25,20,64,Female,South,Non-Smoker,Rarely,23.9,123.7,True,False,157.4,90.9,2023-09-10
+8a80ab86-85cb-4f78-b61e-b06c316bb8c8,36-45,39,74,Male,South,Non-Smoker,Weekly,27.4,142.4,False,True,152.3,98.8,2023-10-22
+79ed8bd0-264f-4d59-8026-821be31e5267,18-25,18,48,Male,North,Non-Smoker,Never,19.8,109.9,True,False,128.7,118.4,2024-10-29
+4f358892-d984-45d9-b190-c1fa3821666b,36-45,41,61,Male,East,Former Smoker,Weekly,21.5,116.3,True,False,178.6,88.6,2023-06-07
+348d6afe-9d54-4a99-9075-87e1b984732f,18-25,19,56,Female,North,Non-Smoker,Weekly,19.9,91.4,False,False,112.0,60.5,2024-07-02
+bd015ac2-2f8a-43ae-8762-7636e16dc4aa,18-25,24,49,Female,North,Non-Smoker,Daily,17.2,127.4,False,False,137.1,60.0,2024-09-22
+2524525f-af9f-408b-b911-dd3175b548a3,18-25,19,61,Female,East,Non-Smoker,Weekly,20.7,106.9,False,False,207.9,105.5,2023-03-08
+a754b9f3-cda8-4d25-97de-7d14ca9452b0,46-60,56,68,Male,East,Smoker,Daily,26.1,126.5,False,False,206.7,80.7,2023-10-26
+d8fdd4f7-9dfc-4e22-a896-da5fadfbc4b4,46-60,47,83,Female,West,Smoker,Rarely,28.7,121.4,True,True,199.5,113.8,2024-04-07
+2647f83b-20dd-4576-a905-7b2d6ff9c89a,36-45,36,70,Male,West,Non-Smoker,Rarely,23.8,108.6,False,False,167.8,94.2,2024-12-25
+2533a512-a004-47fd-a5b3-8bc7169eaebe,60+,71,68,Male,South,Smoker,Weekly,25.3,151.0,True,True,218.0,99.6,2023-04-11
+73a1eac3-bcf0-4779-a63b-fe54692445d5,36-45,38,76,Female,East,Non-Smoker,Weekly,26.0,131.8,False,True,195.2,93.1,2023-02-25
+1a54e488-6060-438f-b191-a0f562c60892,26-35,31,43,Female,West,Former Smoker,Daily,15.0,119.1,True,False,174.6,92.2,2023-11-28
+7654a946-e5d5-4074-b79c-194064a39ca2,60+,67,61,Male,South,Non-Smoker,Weekly,22.8,131.6,True,True,190.4,79.2,2024-01-28
+f40d8664-e346-4dc2-954b-172f47a43292,26-35,29,46,Male,South,Non-Smoker,Weekly,15.9,97.1,False,False,156.1,73.4,2024-01-16
+573074f6-d3df-4a08-b628-4e48a7f3de1d,60+,66,62,Male,South,Non-Smoker,Rarely,22.6,122.4,True,True,231.9,113.9,2023-04-02
+f5ad6769-b41f-434f-b83a-703b974fd94a,18-25,22,54,Male,West,Non-Smoker,Daily,18.0,97.3,False,False,120.6,60.0,2024-03-22
+90138fd3-f211-48de-a257-6c50b434b784,60+,61,82,Female,East,Smoker,Rarely,29.9,147.2,False,True,222.4,129.5,2023-04-19
+f07a322d-9556-47b9-a6f7-d866d2d7676b,18-25,18,40,Male,North,Non-Smoker,Never,15.7,94.3,True,True,155.8,103.9,2023-11-13
+0b5685db-61be-4e01-91c6-f7a86eb463f8,60+,71,72,Female,South,Non-Smoker,Weekly,25.0,126.5,True,True,186.6,109.5,2023-06-17
+e93a6720-164f-462c-b5dc-6199517b8d18,36-45,41,74,Female,West,Non-Smoker,Rarely,25.7,120.3,False,False,180.0,89.9,2024-03-10
+76676552-6950-46b8-b8bb-3db8fd67789e,60+,78,71,Male,West,Non-Smoker,Rarely,28.0,122.1,True,True,192.4,90.8,2024-03-17
+e20c7d2f-48fb-4f48-b69b-810811bf0400,18-25,22,81,Male,North,Non-Smoker,Rarely,26.7,115.8,True,False,184.8,103.9,2023-08-06
+1f898659-4276-40fd-938d-c45f23256fe1,36-45,36,72,Male,North,Non-Smoker,Weekly,23.9,117.6,False,False,143.2,134.5,2023-08-10
+c231140a-8493-49e7-a950-c101d6dd1b6f,60+,67,70,Male,West,Non-Smoker,Weekly,27.0,145.4,True,True,231.8,109.4,2024-11-03
+e26f9347-812e-43b0-b3fb-7b9d0f40a6a7,36-45,36,47,Male,East,Smoker,Weekly,17.9,113.7,False,True,187.6,60.0,2024-06-11
+61bbfe01-e953-4818-8954-c10b1d970c91,46-60,49,60,Female,North,Non-Smoker,Weekly,21.5,109.0,False,False,173.0,100.4,2023-10-05
+6d2e592b-58b5-4642-b1b1-c254b88c2118,46-60,54,51,Male,West,Smoker,Weekly,19.5,126.7,False,True,180.7,105.0,2024-07-22
+e49d7597-e878-431b-9c34-6bc5fb855a3f,36-45,36,76,Other,North,Smoker,Rarely,25.2,116.8,False,True,224.0,81.4,2024-07-27
+b306b435-f1ef-4405-8211-54ed6da9026c,46-60,49,67,Male,East,Smoker,Daily,23.5,132.0,False,False,190.3,76.9,2024-04-10
+66062bbd-70f1-4afb-a737-808a2a0477ba,36-45,41,68,Female,South,Non-Smoker,Never,26.8,104.4,False,True,155.0,102.9,2024-08-24
+e036d387-469b-4b70-b4f0-b3a81a772392,60+,68,61,Female,North,Non-Smoker,Rarely,23.4,125.1,False,False,228.0,94.1,2024-08-06
+d9badfbe-3d6f-4a4d-9cc7-29f50e401506,18-25,18,60,Female,East,Non-Smoker,Weekly,19.1,98.4,False,False,133.9,78.1,2023-01-30
+6dcf318f-2a63-4751-a15c-a726ff04441c,26-35,32,71,Female,West,Non-Smoker,Daily,21.7,121.0,False,False,168.5,65.8,2023-12-25
+2bb669a2-1962-4390-8235-7a186f9c7d02,60+,61,75,Female,North,Non-Smoker,Never,25.4,121.8,True,False,219.0,99.5,2023-10-15
+808592a6-9398-4392-862a-a81a22c22489,60+,73,64,Female,North,Smoker,Rarely,23.3,123.7,False,True,229.5,106.1,2023-03-27
+de90aa0e-4327-49f2-a519-3c714763fd62,36-45,42,61,Female,West,Former Smoker,Rarely,22.4,120.9,False,False,223.0,90.1,2023-08-22
+31067656-8b0f-44f1-ab3f-e50495778443,46-60,48,67,Female,South,Non-Smoker,Weekly,22.4,125.5,True,True,163.6,88.1,2023-11-09
+6df699f0-fe38-4a78-adb0-a487b9f6edb4,26-35,33,59,Male,West,Non-Smoker,Weekly,20.6,112.2,False,False,165.1,88.6,2023-12-31
+2afcc52a-52a4-421b-b6b1-533d7c0fdd46,26-35,28,41,Male,North,Non-Smoker,Daily,17.1,104.0,False,False,158.8,60.0,2023-09-26
+dce5e2a8-d34e-48a7-86c3-eb10be5acecf,36-45,36,71,Female,West,Smoker,Daily,22.8,119.1,False,False,210.9,85.5,2024-11-28
+c14d4486-7243-4b7e-b2e8-b23442f4f8b7,36-45,43,92,Female,East,Non-Smoker,Rarely,28.7,126.5,False,False,220.3,96.3,2023-05-11
+bdd3610b-11fb-4545-a37d-046c63fd11d7,36-45,38,71,Female,West,Non-Smoker,Rarely,23.5,110.3,False,False,179.6,96.8,2023-12-17
+85e937fd-c8f7-43c2-ad97-eda4635384b3,18-25,19,58,Female,North,Former Smoker,Rarely,22.7,110.7,False,False,158.2,92.3,2023-06-29
+9cfcf1c4-7bf6-4c79-a792-17e27078c0a6,60+,61,77,Other,West,Smoker,Never,29.0,148.3,False,True,185.7,140.4,2024-04-24
+aafd9e5a-6d4d-43d4-adf8-9d35ff6593e3,60+,74,65,Male,South,Non-Smoker,Rarely,27.6,123.9,False,False,214.3,111.7,2023-06-12
